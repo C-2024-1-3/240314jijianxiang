@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\shiyan\\second experient\\\u5B57\u7B26\u8F6C\u6362\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78143423-4E6C-42D1-B287-158D57FAB29F}|\u5B57\u7B26\u8F6C\u6362.vcxproj|E:\\C\\shiyan\\second experient\\\u5B57\u7B26\u8F6C\u6362\\\u5B57\u7B26\u8F6C\u6362.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78143423-4E6C-42D1-B287-158D57FAB29F}|\u5B57\u7B26\u8F6C\u6362.vcxproj|solutionrelative:\u5B57\u7B26\u8F6C\u6362.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5B57\u7B26\u8F6C\u6362.cpp",
+              "DocumentMoniker": "E:\\C\\shiyan\\second experient\\\u5B57\u7B26\u8F6C\u6362\\\u5B57\u7B26\u8F6C\u6362.cpp",
+              "RelativeDocumentMoniker": "\u5B57\u7B26\u8F6C\u6362.cpp",
+              "ToolTip": "E:\\C\\shiyan\\second experient\\\u5B57\u7B26\u8F6C\u6362\\\u5B57\u7B26\u8F6C\u6362.cpp",
+              "RelativeToolTip": "\u5B57\u7B26\u8F6C\u6362.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T10:56:47.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\shiyan\\second experient\\\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89561FCC-C24C-4FAF-BCA3-5B0DAB3B9E81}|\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839.vcxproj|E:\\C\\shiyan\\second experient\\\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839\\\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89561FCC-C24C-4FAF-BCA3-5B0DAB3B9E81}|\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839.vcxproj|solutionrelative:\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839.cpp",
+              "DocumentMoniker": "E:\\C\\shiyan\\second experient\\\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839\\\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839.cpp",
+              "RelativeDocumentMoniker": "\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839.cpp",
+              "ToolTip": "E:\\C\\shiyan\\second experient\\\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839\\\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839.cpp",
+              "RelativeToolTip": "\u8FED\u4EE3\u6C42\u5E73\u65B9\u6839.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T12:59:41.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

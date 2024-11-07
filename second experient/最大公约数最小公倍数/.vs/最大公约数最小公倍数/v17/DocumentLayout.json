@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\shiyan\\second experient\\\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0A7C8D-F84A-4684-8B14-5B50A3134E42}|\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570.vcxproj|E:\\C\\shiyan\\second experient\\\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570\\\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D0A7C8D-F84A-4684-8B14-5B50A3134E42}|\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570.vcxproj|solutionrelative:\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570.cpp",
+              "DocumentMoniker": "E:\\C\\shiyan\\second experient\\\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570\\\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570.cpp",
+              "RelativeDocumentMoniker": "\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570.cpp",
+              "ToolTip": "E:\\C\\shiyan\\second experient\\\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570\\\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570.cpp",
+              "RelativeToolTip": "\u6700\u5927\u516C\u7EA6\u6570\u6700\u5C0F\u516C\u500D\u6570.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T12:45:31.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第一次实验：验证基本数据类型长度", "第一次实验：验证基本数据类型长度.vcxproj", "{129B661D-39C6-4782-9A94-733483A6623E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129B661D-39C6-4782-9A94-733483A6623E}.Debug|x64.ActiveCfg = Debug|x64
+		{129B661D-39C6-4782-9A94-733483A6623E}.Debug|x64.Build.0 = Debug|x64
+		{129B661D-39C6-4782-9A94-733483A6623E}.Debug|x86.ActiveCfg = Debug|Win32
+		{129B661D-39C6-4782-9A94-733483A6623E}.Debug|x86.Build.0 = Debug|Win32
+		{129B661D-39C6-4782-9A94-733483A6623E}.Release|x64.ActiveCfg = Release|x64
+		{129B661D-39C6-4782-9A94-733483A6623E}.Release|x64.Build.0 = Release|x64
+		{129B661D-39C6-4782-9A94-733483A6623E}.Release|x86.ActiveCfg = Release|Win32
+		{129B661D-39C6-4782-9A94-733483A6623E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60D418B1-0A39-40D4-AC91-EDF19EC8A9D9}
+	EndGlobalSection
+EndGlobal
