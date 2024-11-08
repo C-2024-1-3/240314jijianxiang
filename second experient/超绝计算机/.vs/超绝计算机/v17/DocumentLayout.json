@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "E:\\C\\shiyan\\second experient\\\u8D85\u7EDD\u8BA1\u7B97\u673A\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B38E497C-5921-4657-93BD-BC4EEB6B56E9}|\u8D85\u7EDD\u8BA1\u7B97\u673A.vcxproj|E:\\C\\shiyan\\second experient\\\u8D85\u7EDD\u8BA1\u7B97\u673A\\\u8D85\u7EDD\u8BA1\u7B97\u673A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B38E497C-5921-4657-93BD-BC4EEB6B56E9}|\u8D85\u7EDD\u8BA1\u7B97\u673A.vcxproj|solutionrelative:\u8D85\u7EDD\u8BA1\u7B97\u673A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,15 +26,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "ViewState": "AgIAAFIHAAAAAAAAAAAlwF8HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T11:28:01.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "\u8D85\u7EDD\u8BA1\u7B97\u673A.cpp",
               "DocumentMoniker": "E:\\C\\shiyan\\second experient\\\u8D85\u7EDD\u8BA1\u7B97\u673A\\\u8D85\u7EDD\u8BA1\u7B97\u673A.cpp",
               "RelativeDocumentMoniker": "\u8D85\u7EDD\u8BA1\u7B97\u673A.cpp",
               "ToolTip": "E:\\C\\shiyan\\second experient\\\u8D85\u7EDD\u8BA1\u7B97\u673A\\\u8D85\u7EDD\u8BA1\u7B97\u673A.cpp",
               "RelativeToolTip": "\u8D85\u7EDD\u8BA1\u7B97\u673A.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-08T10:12:23.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T10:12:23.398Z"
             }
           ]
         }

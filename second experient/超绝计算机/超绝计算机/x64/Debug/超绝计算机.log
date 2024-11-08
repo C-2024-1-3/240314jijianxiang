@@ -1,0 +1,14 @@
+﻿  超绝计算机.cpp
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(63,45): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(63,24): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(86,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(91,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(100,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(105,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(114,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(119,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(143,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(148,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(157,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\C\shiyan\second experient\超绝计算机\超绝计算机.cpp(162,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  超绝计算机.vcxproj -> E:\C\shiyan\second experient\超绝计算机\x64\Debug\超绝计算机.exe
