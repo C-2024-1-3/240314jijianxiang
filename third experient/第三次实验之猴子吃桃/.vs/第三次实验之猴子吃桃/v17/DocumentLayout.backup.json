@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\shiyan\\third experient\\\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EA5DC9-A35F-4C99-994F-A1097FC882CC}|\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843.vcxproj|E:\\C\\shiyan\\third experient\\\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843\\\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7EA5DC9-A35F-4C99-994F-A1097FC882CC}|\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843.vcxproj|solutionrelative:\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843.cpp",
+              "DocumentMoniker": "E:\\C\\shiyan\\third experient\\\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843\\\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843.cpp",
+              "RelativeDocumentMoniker": "\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843.cpp",
+              "ToolTip": "E:\\C\\shiyan\\third experient\\\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843\\\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843.cpp*",
+              "RelativeToolTip": "\u7B2C\u4E09\u6B21\u5B9E\u9A8C\u4E4B\u7334\u5B50\u5403\u6843.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T14:02:28.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  第四次实验之起泡函数.cpp
+E:\C\shiyan\foutn experient\第四次实验之起泡函数\第四次实验之起泡函数.cpp(12,14): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+E:\C\shiyan\foutn experient\第四次实验之起泡函数\第四次实验之起泡函数.cpp(12,14): warning C4244:         with
+E:\C\shiyan\foutn experient\第四次实验之起泡函数\第四次实验之起泡函数.cpp(12,14): warning C4244:         [
+E:\C\shiyan\foutn experient\第四次实验之起泡函数\第四次实验之起泡函数.cpp(12,14): warning C4244:             _Ty=double
+E:\C\shiyan\foutn experient\第四次实验之起泡函数\第四次实验之起泡函数.cpp(12,14): warning C4244:         ]
+  第四次实验之起泡函数.vcxproj -> E:\C\shiyan\foutn experient\第四次实验之起泡函数\x64\Debug\第四次实验之起泡函数.exe
