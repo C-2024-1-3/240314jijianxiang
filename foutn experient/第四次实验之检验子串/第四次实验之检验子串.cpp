@@ -22,7 +22,7 @@ int indexof(const char s1[], const char s2[])
 	{
 		return -1;
 	}
-	int ans = -1;
+	int ans = 0;
 	for (int i = 0; i < fsize; i++)
 	{
 		int count = 0;
@@ -60,6 +60,6 @@ int main()
 	cin.getline(arrf, 100);
 	int ans = indexof(arrs, arrf);
 	cout << "indexof(" << arrs << "," << arrf << ")is";
-	cout << ans+1 << endl;
+	cout << ans << endl;
 	return 0;
 }

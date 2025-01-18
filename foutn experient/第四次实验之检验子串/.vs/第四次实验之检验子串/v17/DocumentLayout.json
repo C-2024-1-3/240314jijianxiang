@@ -14,15 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
             },
             {
               "$type": "Document",
@@ -32,10 +28,14 @@
               "RelativeDocumentMoniker": "\u7B2C\u56DB\u6B21\u5B9E\u9A8C\u4E4B\u68C0\u9A8C\u5B50\u4E32.cpp",
               "ToolTip": "E:\\C\\shiyan\\foutn experient\\\u7B2C\u56DB\u6B21\u5B9E\u9A8C\u4E4B\u68C0\u9A8C\u5B50\u4E32\\\u7B2C\u56DB\u6B21\u5B9E\u9A8C\u4E4B\u68C0\u9A8C\u5B50\u4E32.cpp",
               "RelativeToolTip": "\u7B2C\u56DB\u6B21\u5B9E\u9A8C\u4E4B\u68C0\u9A8C\u5B50\u4E32.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-28T08:14:32.714Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
             }
           ]
         }
